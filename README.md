@@ -14,5 +14,20 @@ provenientes de diferentes sistemas. Necesitas diseñar una nueva arquitectura d
 datos que ayude a la empresa a integrar, almacenar, procesar y analizar mejor los
 datos para la toma de decisiones.
 
+### Sistemas Actuales
+1. Sitio Web y Aplicación Móvil: Generan datos sobre el comportamiento del
+cliente (clics, tiempo en páginas, productos visualizados), transacciones en
+línea y perfiles de usuario.
+2. Tiendas Físicas: Datos de transacciones desde los sistemas de punto de venta
+(POS), actualizaciones de inventario y uso de tarjetas de fidelización.
+3. CRM (Gestión de Relaciones con los Clientes): Administra perfiles de clientes,
+historial de pedidos y campañas de marketing.
+4. Sistema de Gestión de Inventarios: Rastrea los niveles de existencias en los
+almacenes y tiendas, proporcionando actualizaciones en tiempo real sobre la
+disponibilidad de productos.
+5. Análisis de Marketing Externo: Datos de herramientas de marketing de terceros
+como Google Analytics y Facebook Ads, que proporcionan métricas sobre el
+rendimiento de campañas.
+
 ### Resoluciòn
 Ver imagen m2t6.jpg
